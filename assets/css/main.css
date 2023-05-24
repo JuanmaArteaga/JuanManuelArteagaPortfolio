@@ -4871,7 +4871,7 @@ input, select, textarea {
 			flex-wrap: wrap;
 		}
 		.locu-vid {
-			width: 40%;
+			width: 100%;
 			margin-top: 10px;
 			box-sizing: border-box;
 			max-width: 1000px;

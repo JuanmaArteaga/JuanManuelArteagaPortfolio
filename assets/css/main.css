@@ -4891,3 +4891,12 @@ input, select, textarea {
 			width: 90%;
 		}
 	}
+
+	@media screen and (max-width: 950px){
+		.doblecolumn .column1{
+		width: 100%;
+		}
+		.doblecolumn .column2{
+			width: 100%;
+		}
+	}

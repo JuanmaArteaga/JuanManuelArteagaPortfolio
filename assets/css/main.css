@@ -4876,7 +4876,10 @@ input, select, textarea {
 			box-sizing: border-box;
 			max-width: 1000px;
 		}
-
+		
+		#intro2{
+			padding: 0;
+		}
 
 	}
 	@media screen and (max-width: 950px){

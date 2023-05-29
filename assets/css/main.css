@@ -4880,6 +4880,9 @@ input, select, textarea {
 		#intro2{
 			padding: 0;
 		}
+		.titulogif{
+			width: 100%;
+		}
 
 	}
 	@media screen and (max-width: 950px){
